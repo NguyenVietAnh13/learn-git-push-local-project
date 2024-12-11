@@ -1,1 +1,2 @@
 test text
+add a new line 1 in test-text.txt
