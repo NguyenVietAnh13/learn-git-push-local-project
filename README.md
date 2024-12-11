@@ -1,3 +1,5 @@
-commit new file
-edit on computer
-edit on computer again
+CONFLICT RESOLUTION EXAMPLE:
+
+1. Line 1
+2.
+3. Line 3
