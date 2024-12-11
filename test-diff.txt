@@ -1,0 +1,2 @@
+test git diff file_name
+add a new line 1 in test-diff.txt
